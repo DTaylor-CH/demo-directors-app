@@ -1,0 +1,6 @@
+app_name: demo-directors-app
+group: web
+
+weight: 100
+routes:
+  1: ^/demo-directors-app/*
