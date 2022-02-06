@@ -12,5 +12,8 @@
     "express": "^4.17.2",
     "govuk-frontend": "^4.0.0",
     "nunjucks": "^3.2.3"
+  },
+  "devDependencies": {
+    "ts-standard": "^11.0.0"
   }
 }
