@@ -1,0 +1,11 @@
+{
+  "name": "demo-directors-app",
+  "version": "1.0.0",
+  "description": "Project info should go here right away to be updated as we go. For demo, just a placeholder.",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
